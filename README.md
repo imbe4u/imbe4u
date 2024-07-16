@@ -1,13 +1,13 @@
-![logo](https://github.com/imbe4u/imbe4u/blob/main/08e597e1addb5f2aab9ae3ac4820b285.gif)
+<img align="center" width="100%" src="https://github.com/imbe4u/imbe4u/blob/main/08e597e1addb5f2aab9ae3ac4820b285.gif">
 
 <h1 align="center">Hi 👋, I'm Anshu Singh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🌱 I’m currently learning **DSA & MERN**
 
-- 👨‍💻 All of my projects are available in [my repository](my repository)
+- 👨‍💻 All of my projects are available in my repository.
 
 - 💬 Ask me about **anything you want**
 
